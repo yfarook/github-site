@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+After pushing your code to master branch, run npm run deploy. This will make a new commit and push to your gh-pages branch that your GitHub Pages app running on. Then refresh your page. If you don't see any changes, wait a couple minutes and refresh it again.

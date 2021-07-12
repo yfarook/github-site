@@ -1,6 +1,6 @@
 {
-  "name": "home",
-  "homepage": "https://yfarook.github.io/home/",
+  "name": "github-site",
+  "homepage": "https://yfarook.github.io/github-site/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
