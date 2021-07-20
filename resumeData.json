@@ -48,91 +48,91 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Purdue University",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "May 2021",
+        "description": "Woohoo!"
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Purdue Laboratory for Sustainable Manufacturing",
+        "title": "Software Developer",
+        "years": "May 2020 - July 2021",
+        "description": "Woohoo!"
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Stem4Kids Academy",
+        "title": "Lead Instructor + Software Developer",
+        "years": "June 2019 - Aug 2019",
+        "description": "Woohoo!"
+      },
+      {
+        "company": "Hi-Tech Systems",
+        "title": "Web Development Intern",
+        "years": "June 2018 - Aug 2018",
+        "description": "Woohoo!"
       }
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
+        "name": "Python",
         "level": "90%"
       },
       {
-        "name": "HTML5",
+        "name": "Java",
         "level": "80%"
       },
       {
-        "name": "VueJs",
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "C/C++",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "60%"
+      },
+      {
+        "name": "NodeJS",
         "level": "50%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Bash",
+        "level": "50%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
+        "title": "Clint - Google cloud printing alternative",
         "category": "My Travel Blog for my post-university travels",
         "image": "canadian-wanderlust.jpg",
         "url": "https://www.canadianwanderlust.com"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
+        "title": "Unifyre",
+        "category": "Web platform for students to stay connected with others and up to date with events through the pandemic.",
         "image": "fury-fighting-gear.jpg",
         "url": "http://www.timbakerdev.com"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
+        "title": "Emotional Stocks",
+        "category": "Machine Learning project to analyze the emotion of tweeters sampling tweets with a particular stock ticker.",
         "image": "original-thai-food.jpg",
         "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
+        "title": "Twistter LCYS",
+        "category": "Website that addresses desires for micro bloggers to filter their feeds to the topics they are interested in.",
         "image": "resume-website.jpg",
         "url": "http://www.timbakerdev.com"
       },
       {
-        "title": "Smirkspace",
+        "title": "Personal Linux Shell",
         "category": "(MVP Only) A React and Meteor based chat University project.",
         "image": "smirkspace.jpg",
         "url": "http://www.smirkspace.com"
