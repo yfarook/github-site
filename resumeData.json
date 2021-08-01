@@ -2,10 +2,10 @@
   "main": {
     "name": "Yazin Farook",
     "occupation": "Full Stack Software Developer",
-    "description": "I love solving problems that other people do not see. And I want to be able to solve challenging problems using technology.",
+    "description": "I love solving problems that other people do not see. And I want to be able to solve challenging problems using technology",
     "image": "profilepic.jpg",
     "bio": "I am a recent graduate from  Purdue university who majored in Computer Science. My two concentrations for my major were Machine Intelligence and Software Engineering. On top of my school work, I had been working part time as a Software Developer for the EEE department at my university and recently the software I have been working on got approved for an open source license.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage": "Feel free to get in touch with me!",
     "email": "yazinfrk@icloud.com",
     "phone": "765-430-1277",
     "address": {
@@ -19,12 +19,12 @@
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "https://www.facebook.com/yazinfrk",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "http://twitter.com",
+        "url": "https://twitter.com/yazinfrk",
         "className": "fa fa-twitter"
       },
       {
@@ -34,12 +34,12 @@
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "https://www.instagram.com/yazinfrk/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/yfarook",
         "className": "fa fa-github"
       }
     ]
@@ -51,7 +51,7 @@
         "school": "Purdue University",
         "degree": "Bachelors in Computer Science",
         "graduated": "May 2021",
-        "description": "Woohoo!"
+        "description": "• Concentrations: Machine intelligence, Software Engineering\n • BoilerCode | MiniMake | HelloWorld: Mentor + Instructor\n • University Residences: Treasurer\n • iOS Developers Club: Software Developer\n • EPICS Purdue: Software Developer, Community engagement award winner\n "
       }
     ],
     "work": [
@@ -59,19 +59,19 @@
         "company": "Purdue Laboratory for Sustainable Manufacturing",
         "title": "Software Developer",
         "years": "May 2020 - July 2021",
-        "description": "Woohoo!"
+        "description": "• Open-source licensing executed on developed software by Purdue Research Foundation (2020)\n • Develop full stack Python software that allows Critical Materials Institute (CMI) researchers (and others) to perform their own Techno-Economic Analysis (TEA) on preferred TRL stage.\n• Study and implement machine learning methods and agent-based modelling to the statistical experimental design techniques in the CMI software.\n• Collaborate with CMI scientists/engineers to conduct TEA on their technologies/processes."
       },
       {
         "company": "Stem4Kids Academy",
         "title": "Lead Instructor + Software Developer",
         "years": "June 2019 - Aug 2019",
-        "description": "Woohoo!"
+        "description": "• Teach Computer Science Courses including Java, Python, C, C++ and Web-Dev programming.\n • Supervise curriculum planning meetings, faculty meetings and student wellness meetings. Use a wide range of technologies and creative teaching styles in order to engage students.\n • Develop iOS mobile application to streamline business and increase the organization’s efficiency."
       },
       {
         "company": "Hi-Tech Systems",
         "title": "Web Development Intern",
         "years": "June 2018 - Aug 2018",
-        "description": "Woohoo!"
+        "description": "• Responsible to define and design solutions dealing with back-end software/programs such as Centos, Apache, MySQL (MariaDB), PHP and LAMP stack.\n • Made involvements in the front-end aspects of web-development such as HTML, CSS, Java-Script and graphic designs (Adobe Photoshop, Adobe Photoshop Illustrator)."
       }
     ],
     "skills": [
@@ -108,10 +108,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Clint - Google cloud printing alternative",
-        "category": "My Travel Blog for my post-university travels",
+        "title": "Clint",
+        "category": "Google cloud printing alternative",
         "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "url": "http://www.clint.bot"
       },
       {
         "title": "Unifyre",
